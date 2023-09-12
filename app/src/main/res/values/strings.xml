@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TugasBKPM</string>
+    
+    <string-array name="country">
+        <item>Nanggroe Aceh Darussalam (Ibu Kota Banda Aceh)</item>
+        <item>Sumatera Utara (Ibu Kota Medan)</item>
+        <item>Sumatera Selatan (Ibu Kota Palembang)</item>
+        <item>Sumatera Barat (Ibu Kota Padang)</item>
+        <item>Bengkulu (Ibu Kota Bengkulu)</item>
+        <item>Riau (Ibu Kota Pekanbaru)</item>
+        <item>Kepulauan Riau (Ibu Kota Tanjung Pinang)</item>
+        <item>Jambi (Ibu Kota Jambi)</item>
+        <item>Lampung (Ibu Kota Bandar Lampung)</item>
+        <item>Bangka Belitung (Ibu Kota Pangkal Pinang)</item>
+        <item>Kalimantan Barat (Ibu Kota Pontianak)</item>
+        <item>Kalimantan Timur (Ibu Kota Samarinda)</item>
+        <item>Kalimantan Selatan (Ibu Kota Banjarbaru)</item>
+        <item>Kalimantan Tengah (Ibu Kota Palangkaraya)</item>
+        <item>Kalimantan Utara (Ibu Kota Tanjung Selor)</item>
+        <item>Banten (Ibu Kota Serang)</item>
+        <item>DKI Jakarta (Ibu Kota Jakarta)</item>
+        <item>Jawa Barat (Ibu Kota Bandung)</item>
+        <item>Jawa Tengah (Ibu Kota Semarang)</item>
+        <item>Daerah Istimewa Yogyakarta (Ibu Kota Yogyakarta)</item>
+        <item>Jawa Timur (Ibu Kota Surabaya)</item>
+        <item>Bali (Ibu Kota Denpasar)</item>
+        <item>Nusa Tenggara Timur (Ibu Kota Kupang)</item>
+        <item>Nusa Tenggara Barat (Ibu Kota Mataram)</item>
+        <item>Gorontalo (Ibu Kota Gorontalo)</item>
+        <item>Sulawesi Barat (Ibu Kota Mamuju)</item>
+        <item>Sulawesi Tengah (Ibu Kota Palu)</item>
+        <item>Sulawesi Utara (Ibu Kota Manado)</item>
+        <item>Sulawesi Tenggara (Ibu Kota Kendari)</item>
+        <item>Sulawesi Selatan (Ibu Kota Makassar)</item>
+        <item>Maluku Utara (Ibu Kota Sofifi)</item>
+        <item>Maluku (Ibu Kota Ambon)</item>
+        <item>Papua Barat (Ibu Kota Manokwari)</item>
+        <item>Papua (Ibu Kota Jayapura)</item>
+        <item>Papua Tengah (Ibu Kota Nabire)</item>
+        <item>Papua Pegunungan (Ibu Kota Jayawijaya)</item>
+        <item>Papua Selatan (Ibu Kota Merauke)</item>
+        <item>Papua Barat Daya (Ibu Kota Sorong)</item>
+    </string-array>
+</resources>
