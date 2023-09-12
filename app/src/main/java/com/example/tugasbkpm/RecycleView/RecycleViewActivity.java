@@ -39,6 +39,7 @@ addData();
         MahasiswaArrayList = new ArrayList<>();
         MahasiswaArrayList.add(new Mahasiswa("E41221566","Mochammad Lury Choirul Rizky","0895322195063"));
         MahasiswaArrayList.add(new Mahasiswa("E42344322","Deli Kurniawati","085895680106"));
+        MahasiswaArrayList.add(new Mahasiswa("E41244454","Putri","085859097002"));
     }
 
 
