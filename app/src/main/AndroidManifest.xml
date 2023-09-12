@@ -18,8 +18,8 @@
             android:name=".ListViewActivity"
             android:exported="true" />
         <activity
-            android:name=".RecycleViewActivity"
-            android:exported="false" />
+            android:name=".RecycleView.RecycleViewActivity"
+            android:exported="true" />
         <activity
             android:name=".RelativeLayout"
             android:exported="true" />
